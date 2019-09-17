@@ -1,0 +1,1 @@
+Uri uri , local onde a foto irá ser gravada.
